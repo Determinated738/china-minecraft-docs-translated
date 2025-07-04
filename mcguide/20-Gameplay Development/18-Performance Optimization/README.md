@@ -1,0 +1,3 @@
+# Preface 
+
+This article is the development experience of NetEase employees over the years, and some program optimization solutions summarized when investigating some MODs that are prone to lag for developers. It is for the reference of developers. MC's performance and ecosystem need everyone's efforts. Every improvement in the average frame rate of the game and a little less memory usage can make more players able to play our games, which will be much better for the player experience. In addition, we also look forward to everyone giving us more valuable opinions and suggestions.
